@@ -7,6 +7,8 @@ public class Launcher {
 		
 		String nombre="Thomas";
 		System.out.println("Hola "+nombre);
+		
+		String apellido="Panqueva";
+		System.out.println("Con apellido: "+apellido);
 	}
-
 }
